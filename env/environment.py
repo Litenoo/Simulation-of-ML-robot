@@ -3,6 +3,8 @@ class Environment:
         self.world = world
         self.bot = bot
 
+    def frame():
+        pass
     def check_collision(self):
         self.world.is_obstructed
     
